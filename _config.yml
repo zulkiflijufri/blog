@@ -22,7 +22,7 @@ title: Hi guys 😁
 author: Zulkifli Jufri
 permalink: /:title.html
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: https://github.com/zulkiflijufri.github.io # root address of the site
+url: https://zulkiflijufri.github.io/ # root address of the site
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Kenalkan saya Zulkifli Jufri, mahasiswa jurusan Teknik Informatika disalah satu kampus swasta daerah Depok. Saat ini, saya mengisi waktu dengan belajar pemrograman Javascript dan PHP, sambil mengerjakan project sederhana. Ohiya, blog ini sebagai dokumentasi dari sesuatu hal bermanfaat yang pernah saya temui.
