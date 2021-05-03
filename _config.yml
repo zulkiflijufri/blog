@@ -24,15 +24,15 @@ permalink: /:title.html
 url: https://github.com/zulkiflijufri.github.io/blog/ # root address of the site
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Kenalkan saya Zulkifli Jufri, mahasiswa jurusan Teknik Informatika, disalah satu kampus swasta daerah Depok. Saat ini, saya mengisi waktu dengan belajar pemrograman Javascript dan PHP, sambil mengerjakan project sederhana. Ohiya, blog ini sebagai dokumentasi dari sesuatu hal bermanfaat yang pernah saya rasakan.
+  Kenalkan saya Zulkifli Jufri, mahasiswa jurusan Teknik Informatika disalah satu kampus swasta daerah Depok. Saat ini, saya mengisi waktu dengan belajar pemrograman Javascript dan PHP, sambil mengerjakan project sederhana. Ohiya, blog ini sebagai dokumentasi dari sesuatu hal bermanfaat yang pernah saya temui.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 # twitter_username: jekyllrb
 github_username: zulkiflijufri
 
 # Build settings
-#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-# remote_theme: abhinavs/moonwalk
+# theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
+remote_theme: abhinavs/moonwalk
 highlighter: rouge
 
 sass:
